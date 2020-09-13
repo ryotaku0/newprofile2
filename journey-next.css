@@ -1,0 +1,186 @@
+body{
+  margin:0em;
+  width:100%; 
+  background-image: url(map.png);
+  background-attachment:fixed;
+  position:fixed;
+}
+
+a{
+  position: relative;
+  
+}
+
+
+
+h1{
+  font-size:45px;
+  color:red;
+  margin-left:120px;
+}
+.rule{
+  font-size:28px;
+  font-weight:bold;
+  margin-left:20px;
+}
+.pin{
+  font-size:18px;
+  color:red;
+  font-weight:bold;
+}
+.fa{
+  color:red;
+}
+.fa:hover{
+  color:#3b5998;
+  
+}
+.one{
+  position:absolute;
+  top:530px;
+  left:540px;
+}
+
+.two{
+  position:absolute;
+  top:536px;
+  left:560px;
+}
+
+.three{
+  position:absolute;
+  top:545px;
+  left:568px;
+}
+
+.four{
+  position:absolute;
+  top:570px;
+  left:580px;
+}
+
+.five{
+  position:absolute;
+  top:580px;
+  left:590px;
+}
+
+.six{
+  position:absolute;
+  top:600px;
+  left:610px;
+}
+
+.seven{
+  position:absolute;
+  top:640px;
+  left:660px;
+}
+
+.eight{
+  position:absolute;
+  top:655px;
+  left:738px;
+}
+
+.nine{
+  position:absolute;
+  top:655px;
+  left:755px;
+}
+
+.ten{
+  position:absolute;
+  top:645px;
+  left:780px;
+}
+
+.eleven{
+  position:absolute;
+  top:590px;
+  left:890px;
+}
+
+.twelve{
+  position:absolute;
+  top:575px;
+  left:905px;
+}
+
+.thirteen{
+  position:absolute;
+  top:490px;
+  left:1100px;
+}
+
+.fourteen{
+  position:absolute;
+  top:490px;
+  left:1115px;
+}
+
+.fifteen{
+  position:absolute;
+  top:490px;
+  left:1125px;
+}
+
+.sixteen{
+  position:absolute;
+  top:430px;
+  left:1180px;
+}
+
+img{
+  margin-top:-450px;
+  margin-left:50px;
+  display:none;
+}
+.one:hover > img{
+  display:block
+}
+.two:hover > img{
+  display:block
+}
+.three:hover > img{
+  display:block 
+}
+.four:hover > img{
+  display:block
+}
+.five:hover > img{
+  display:block
+}
+.six:hover > img{
+  display:block
+}
+.seven:hover > img{
+  display:block
+}
+.eight:hover > img{
+  display:block
+}
+.nine:hover > img{
+  display:block
+}
+.ten:hover > img{
+  display:block
+}
+.eleven:hover > img{
+  display:block
+}
+.twelve:hover > img{
+  display:block
+}
+.thirteen:hover > img{
+  display:block
+}
+.fourteen:hover > img{
+  display:block
+}
+.fifteen:hover > img{
+  display:block
+}
+.sixteen:hover > img{
+  display:block
+}
